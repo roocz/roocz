@@ -1,5 +1,5 @@
 var urls = [
-  'https://td-love.lanzoux.com/s/lsrjk6?{nnnnnnnn}{www}',
+  'https://wwr.lanzoui.com/s/lsrjk6?{nnnnnnnn}{www}',
 ];
 
 window.history.pushState({}, 'x', getUrl());
